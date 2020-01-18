@@ -7,20 +7,20 @@ date_format: "ordinal"
 title: 码志
 subtitle: "打码改变人生"
 description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+keywords: XIAOPING
+timezone: Asia/ChonqQing
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: XIAO PING
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: XIAOPING
+location: CH, China
+email: yxp1213@gmail.com
 
 # ---------------- #
 #    Navigation    #
