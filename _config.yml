@@ -4,8 +4,8 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
+title: 
+subtitle: "再看就把你喝掉"
 description: "马壮的个人博客"
 keywords: XIAOPING
 timezone: Asia/ChonqQing
@@ -102,10 +102,10 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: xiaopingyi
+    repo: xiaopingyi
+    clientID: 57f0e5baa5f068a0a09c
+    clientSecret: 1a7519fac9e639281bba8871b79a74c58634c720
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
