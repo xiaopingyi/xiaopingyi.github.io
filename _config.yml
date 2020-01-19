@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://xiaopingyi.github.io/
 date_format: "ordinal"
-title: 
-subtitle: "再看就把你喝掉"
-description: "马壮的个人博客"
+title: AKAlways
+subtitle: "Good Good Study"
+description: "小平的个人博客"
 keywords: XIAOPING
 timezone: Asia/ChonqQing
 encoding: "utf-8"
@@ -95,11 +95,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: xiaopingyi
+    repo: xiaopingyi
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 57f0e5baa5f068a0a09c
+        client_secret: 1a7519fac9e639281bba8871b79a74c58634c720
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: xiaopingyi
