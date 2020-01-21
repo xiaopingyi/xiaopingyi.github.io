@@ -4,7 +4,7 @@
 baseurl:
 url: https://xiaopingyi.github.io/
 date_format: "ordinal"
-title: AKAlways
+title: XiaoPing Blog
 subtitle: "Good Good Study"
 description: "小平的个人博客"
 keywords: XIAOPING
@@ -38,9 +38,9 @@ navs:
 #     href: /archives/
 #     label: 归档
 
-  -
-    href: /wiki/
-    label: 维基
+#  -
+#    href: /wiki/
+#    label: 维基
 
   -
     href: /links/
