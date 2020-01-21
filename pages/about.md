@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 前端小白鼠
+keywords: Xiaoping Yi, 易小平
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是易小平，乐观人生，洒脱一世。
 
-仰慕「优雅编码的艺术」。
+仰慕「一人、一脑、一世界」。
 
-坚信熟能生巧，努力改变人生。
+坚信办法总比问题多。
 
 ## 联系
 
