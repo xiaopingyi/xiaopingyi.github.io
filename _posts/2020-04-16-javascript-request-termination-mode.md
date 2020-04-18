@@ -37,7 +37,7 @@ xhr.abort(); // 终止请求
 Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js中;Axios发起请求的本质也是创建一个XMLHttpRequest
 
 #### 使用方法
-```JavaScript
+```javascript
 import axios from 'axios'
 var CancelToken = axios.CancelToken;
 var source = CancelToken.source(); // {token: CancelToken,cancel: Canceler;}
@@ -68,7 +68,7 @@ source.cancel('Operation canceled by the user.');
 3. 路由切换时，将未请求完成的请求终止
 
 #### 实现
-```Javascript
+```javascript
 import Vue from 'vue'
 import Vuex from 'vuex'
 
@@ -92,7 +92,7 @@ export default new Vuex.Store({
 })
 ```
 
-```Javascript
+```javascript
 router.beforeEach((to, from, next) => {
   this.$store.state.xhrRequest.map(xhr=>{
     xhr.abort(); // 终止请求

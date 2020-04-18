@@ -7,7 +7,7 @@ keywords: 数据结构、树形结构
 ---
 
 #### 树形结构转给列表
-```Javascript
+```javascript
 let tree = [{
 		"id" : 1,
 		"address" : "重庆",
@@ -98,7 +98,7 @@ let treeToList = new Set(...treeToList); // 去除重复数据
 ```
 
 #### 列表转为树形结构
-```Javascript
+```javascript
     let dataTree =[
         { id: 1, address: "重庆", pid: 0 },
         { id: 6, address: "重庆a", pid: 1 },
@@ -140,7 +140,7 @@ let treeToList = new Set(...treeToList); // 去除重复数据
 1. 先将树形接口转成列表
 2. 通过列表查询父节点
 
-```JavaScript
+```javascript
 
 let treeList = [];
 // 树形接口转成列表
@@ -168,7 +168,7 @@ let findParentIds = (parentId,arr) =>{
 ```
 
 #### 父节点查询子节点
-```Javascript
+```javascript
 let findChildrenByParentId = (arr,parentId)=>{
   arr.map(item=>{
     if(item.pid === parentId){
